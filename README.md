@@ -15,7 +15,16 @@ It combines:
 ## 🌐 Live Demo
 
 👉 Streamlit App: **[Add your deployed link here]**
-👉 Demo Video: **https://www.loom.com/share/279b6c42ce534a6fbf17090b89293598**
+
+👉 Demo Video: 
+
+Click below to watch the full demo:
+
+<p align="center">
+  <a href="https://www.loom.com/share/279b6c42ce534a6fbf17090b89293598">
+    <img src="images/Thumbnail.png" width="600">
+  </a>
+</p>
 
 ---
 
