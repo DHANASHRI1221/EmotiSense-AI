@@ -14,7 +14,7 @@ It combines:
 
 ## 🌐 Live Demo
 
-👉 Streamlit App: **[Add your deployed link here]**
+👉 Streamlit App: **https://emotisense-ai-urlwjpwg9spnl2t7qstzeh.streamlit.app/**
 
 👉 Demo Video: 
 
