@@ -14,10 +14,6 @@ It combines:
 
 ## 🌐 Live Demo
 
-👉 Streamlit App: **https://emotisense-ai-urlwjpwg9spnl2t7qstzeh.streamlit.app/**
-
-👉 Demo Video: 
-
 Click below to watch the full demo:
 
 <p align="center">
@@ -53,12 +49,6 @@ Interactive UI
 
 ## 🧠 AI Analysis (Model Intelligence)
 
-This section shows how different models interpret the user's emotional state.
-
-![AI Analysis](screenshots/analysis.png)
-
-✨ **What’s happening here:**
-
 * TF-IDF captures keyword patterns
 * BERT understands deeper context
 * Hybrid combines both for better reliability
@@ -69,10 +59,6 @@ This section shows how different models interpret the user's emotional state.
 
 Each model provides a confidence score, visualized using clean progress bars.
 
-![Confidence](screenshots/confidence.png)
-
-✨ **Why this matters:**
-
 * Helps users trust predictions
 * Highlights model certainty
 * Enables better decision-making
@@ -82,8 +68,6 @@ Each model provides a confidence score, visualized using clean progress bars.
 ## 🌿 AI Response & Action
 
 The system generates a personalized response along with a recommended action.
-
-![Response](screenshots/response.png)
 
 ✨ **Examples:**
 
@@ -96,8 +80,6 @@ The system generates a personalized response along with a recommended action.
 ## 💬 Conversation Interface
 
 A clean chat-style interface improves user interaction and usability.
-
-![Chat UI](screenshots/chat.png)
 
 ✨ **Features:**
 
