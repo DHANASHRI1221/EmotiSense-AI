@@ -1,0 +1,21 @@
+2026-03-19 16:31:09.797317,Nice,restless,0.34547051787376404,light_planning
+2026-03-19 16:38:44.783114,"I am too much Focused Right Now, Feeling to do more and more work",overwhelmed,0.48378247022628784,light_planning
+2026-03-19 16:43:46.458212,"I am too much stressed Right Now, Feeling to do nothing",neutral,0.4775625169277191,rest
+2026-03-19 16:48:54.600120,"I am too much stressed Right Now, Feeling to do nothing",neutral,0.5031984448432922,rest
+2026-03-20 16:57:19.533025,"I am too much Focused Right Now, Feeling to do more and more work",overwhelmed,0.5502721667289734,grounding,focused,0.3100679814815521,deep_work,TF-IDF
+2026-03-20 16:58:02.383462,"I am too much Focused Right Now, Feeling to do more and more work",overwhelmed,0.5502721667289734,grounding,focused,0.3100679814815521,deep_work,BERT
+2026-03-20 16:58:27.989226,"I am too much Focused Right Now, Feeling to do more and more work",overwhelmed,0.5502721667289734,grounding,focused,0.3100679814815521,deep_work,TF-IDF
+2026-03-20 16:58:42.118052,"I am too much Focused Right Now, Feeling to do more and more work",overwhelmed,0.5502721667289734,grounding,focused,0.3100679814815521,deep_work,TF-IDF
+2026-03-20 16:59:07.321498,"I am too much stressed Right Now, Feeling to do nothing",neutral,0.5511329770088196,rest,overwhelmed,0.5438162684440613,box_breathing,TF-IDF
+2026-03-20 16:59:34.362085,"I am too much stressed Right Now, Feeling to do nothing",neutral,0.5511329770088196,rest,overwhelmed,0.5438162684440613,box_breathing,BERT
+2026-03-20 16:59:49.420640,"I am too much stressed Right Now, Feeling to do nothing",neutral,0.5511329770088196,rest,overwhelmed,0.5438162684440613,box_breathing,TF-IDF
+2026-03-20 17:00:05.765314,"I am too much stressed Right Now, Feeling to do nothing",neutral,0.5511329770088196,rest,overwhelmed,0.5438162684440613,box_breathing,BERT
+2026-03-20 17:09:46.033366,"I am too much stressed Right Now, Feeling to do nothing",neutral,0.5511329770088196,rest,overwhelmed,0.5438162684440613,box_breathing,TF-IDF
+2026-03-20 17:18:16.887910,"I am too much stressed Right Now, Feeling to do nothing",neutral,0.5556998252868652,rest,overwhelmed,0.5438162684440613,box_breathing,TF-IDF
+2026-03-20 17:18:35.917108,"I am too much stressed Right Now, Feeling to do nothing",neutral,0.5556998252868652,rest,overwhelmed,0.5438162684440613,box_breathing,BERT
+2026-03-20 17:18:48.067365,"I am too much stressed Right Now, Feeling to do nothing",neutral,0.5556998252868652,rest,overwhelmed,0.5438162684440613,box_breathing,TF-IDF
+2026-03-20 17:19:19.011368,"I am too much Focused Right Now, Feeling to do more and more work",overwhelmed,0.5471836924552917,grounding,focused,0.3100679814815521,deep_work,TF-IDF
+2026-03-20 17:19:25.484038,"I am too much Focused Right Now, Feeling to do more and more work",overwhelmed,0.5471836924552917,grounding,focused,0.3100679814815521,deep_work,BERT
+2026-03-20 17:19:31.562028,"I am too much Focused Right Now, Feeling to do more and more work",overwhelmed,0.5471836924552917,grounding,focused,0.3100679814815521,deep_work,TF-IDF
+2026-03-20 17:20:08.557574,"I am too much Focused Right Now, Feeling to do more and more work",overwhelmed,0.5471836924552917,grounding,focused,0.3100679814815521,deep_work,TF-IDF
+2026-03-20 17:20:45.397192,"I am too much Focused Right Now, Feeling to do more and more work",overwhelmed,0.5471836924552917,grounding,focused,0.3100679814815521,deep_work,TF-IDF
