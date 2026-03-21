@@ -1,4 +1,12 @@
 # 🧠 EmotiSense AI
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Emotional%20Guidance-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-BERT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-TF--IDF-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Flask-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-NLP-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-AI%20Assistant-purple?style=for-the-badge" />
+</p>
 
 ### Hybrid Emotion Intelligence & Mental Wellness Assistant
 
