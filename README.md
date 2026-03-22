@@ -55,37 +55,61 @@ Interactive UI
 
 # 📸 App Walkthrough
 
-## 🧠 AI Analysis (Model Intelligence)
+### 🧠 Input Parameters Interface
 
-* TF-IDF captures keyword patterns
-* BERT understands deeper context
-* Hybrid combines both for better reliability
+<p align="center">
+  <img src="images/input_parameters.png" width="400">
+</p>
 
----
-
-## 📊 Confidence Visualization
-
-Each model provides a confidence score, visualized using clean progress bars.
-
-* Helps users trust predictions
-* Highlights model certainty
-* Enables better decision-making
+📝 **Description:**  
+The user provides both **text input ** and contextual features, such as stress level, sleep hours, mood history, and energy level.  
+This enables **multi-dimensional emotion detection**, going beyond simple text-based models.
 
 ---
 
-## 🌿 AI Response & Action
+### ⚡ Hybrid Model Output (Final Decision)
 
-The system generates a personalized response along with a recommended action.
+<p align="center">
+  <img src="images/hybrid_ai_analysis.png" width="400">
+</p>
 
-✨ **Examples:**
+📝 **Description:**  
+The hybrid model combines TF-IDF and BERT predictions using a **confidence-based ensemble strategy**.
 
-* Breathing exercises
-* Grounding techniques
-* Deep work suggestions
+✔ More stable predictions  
+✔ Reduced overfitting  
+✔ Improved real-world reliability  
+
+---
+
+## 🔍 TF-IDF Model Output
+
+<p align="center">
+  <img src="images/TF_IDF_analysis.png" width="400">
+</p>
+
+📝 **Description:**  
+TF-IDF captures **keyword-level patterns** and performs well on structured inputs.  
+However, it may miss deeper semantic meaning in complex emotional expressions.
+
+---
+
+### 🧬 BERT Model Output
+
+<p align="center">
+  <img src="images/BERT_analysis.png" width="400">
+</p>
+
+📝 **Description:**  
+BERT captures **contextual and semantic meaning** of user input.  
+It handles nuanced emotions effectively but may yield **lower confidence scores** than TF-IDF.
 
 ---
 
 ## 💬 Conversation Interface
+<p align="center">
+  <img src="images/hybrid_conversation.png" width="400">
+</p>
 
 A clean chat-style interface improves user interaction and usability.
 
@@ -94,6 +118,33 @@ A clean chat-style interface improves user interaction and usability.
 * Emotion-based color coding
 * Confidence indicators
 * Smooth conversational flow
+
+---
+## 📊 Model Performance & Evaluation
+
+### 📈 Confusion Matrix – TF-IDF
+
+<p align="center">
+  <img src="images/TF_IDF_confusion_matrix.png" width="500">
+</p>
+
+📝 **Insights:**
+- High-confidence predictions  
+- Slight bias toward dominant classes  
+- Struggles with subtle emotional variations  
+
+---
+
+### 📈 Confusion Matrix – BERT
+
+<p align="center">
+  <img src="images/BERT_confusion_matrix.png" width="500">
+</p>
+
+📝 **Insights:**
+- Better generalization across classes  
+- Handles ambiguous inputs effectively  
+- Lower confidence but more balanced predictions  
 
 ---
 
@@ -107,6 +158,36 @@ A clean chat-style interface improves user interaction and usability.
 * 💬 Interactive chat UI
 
 ---
+## 🧠 Why Hybrid Model?
+
+Single models have inherent limitations:
+
+- **TF-IDF** → lacks contextual understanding  
+- **BERT** → computationally expensive, sometimes low confidence  
+
+### ✅ Hybrid Approach:
+
+- Combines the strengths of both models  
+- Reduces individual weaknesses  
+- Produces more **robust and reliable predictions**  
+- Better suited for real-world emotional intelligence systems  
+
+---
+## 📂 Dataset
+
+- Total Samples: 240 
+- Features:
+  - Text input  
+  - Stress level  
+  - Sleep hours  
+  - Energy level  
+  - Previous mood  
+  - Time of day  
+
+⚠️ *Note: Dataset is anonymized and used for research purposes.*
+
+---
+
 
 # 🧠 Tech Stack
 
