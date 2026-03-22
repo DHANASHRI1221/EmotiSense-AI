@@ -227,7 +227,7 @@ Single models have inherent limitations:
 ### 🔹 Clone Repository
 
 ```bash
-git clone https://github.com/your-username/EmotiSense-AI.git
+git clone https://github.com/DHANASHRI1221/EmotiSense-AI.git
 cd EmotiSense-AI
 ```
 
