@@ -1,11 +1,12 @@
 # 🧠 EmotiSense AI
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Emotional%20Guidance-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-BERT-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-TF--IDF-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Flask-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-NLP-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Project-AI%20Assistant-purple?style=for-the-badge" />
+
+![AI](https://img.shields.io/badge/AI-Emotional%20Guidance-blue?style=for-the-badge)
+![ML](https://img.shields.io/badge/Machine%20Learning-BERT-green?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Flask-yellow?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 </p>
 
 ### Hybrid Emotion Intelligence & Mental Wellness Assistant
@@ -148,7 +149,7 @@ A clean chat-style interface improves user interaction and usability.
 
 ---
 
-# ⚙️ Key Features
+## ⚙️ Key Features
 
 * 🧠 Hybrid emotion classification system
 * 📊 Confidence-based predictions
@@ -175,6 +176,7 @@ Single models have inherent limitations:
 ---
 ## 📂 Dataset
 
+Custom annotated dataset built with real behavioral signals across 6 contextual dimensions.
 - Features:
   - Text input  
   - Stress level  
@@ -188,7 +190,7 @@ Single models have inherent limitations:
 ---
 
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
 | Category      | Tools                       |
 | ------------- | --------------------------- |
@@ -201,7 +203,7 @@ Single models have inherent limitations:
 
 ---
 
-# 📊 Model Design
+## 📊 Model Design
 
 | Model  | Role                           |
 | ------ | ------------------------------ |
@@ -211,7 +213,7 @@ Single models have inherent limitations:
 
 ---
 
-# 🔍 Error Analysis Insights
+## 🔍 Error Analysis Insights
 
 * BERT → accurate but low confidence
 * TF-IDF → overconfident sometimes
@@ -221,7 +223,7 @@ Single models have inherent limitations:
 
 ---
 
-# 🚀 How to Run Locally
+## 🚀 How to Run Locally
 
 ### 🔹 Clone Repository
 
@@ -238,7 +240,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Run the App
+## ▶️ Run the App
 
 ### ✅ Recommended (Standalone)
 
@@ -255,7 +257,7 @@ streamlit run app.py
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 ├── app.py
@@ -270,7 +272,7 @@ streamlit run app.py
 
 ---
 
-# 💡 Key Learnings
+## 💡 Key Learnings
 
 * Hybrid models outperform individual models
 * Confidence calibration is critical in ML systems
@@ -279,16 +281,16 @@ streamlit run app.py
 
 ---
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 
-* 🔬 Fine-tuned transformer model
-* 📊 Emotion trend tracking
-* 🧠 Explainability (SHAP)
-* 🎯 Personalized recommendations
+* Fine-tune BERT on domain-specific emotional language datasets
+* Add SHAP explainability to show feature importance per prediction
+* Implement emotion trend tracking across multiple sessions
+* Expand behavioral features with physiological signals
 
 ---
 
-# 👨‍💻 Author
+## 👩‍💻 Author
 
 **Dhanashri Shivdas**
 
@@ -296,6 +298,6 @@ streamlit run app.py
 
 ---
 
-# ⭐ Support
+## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
