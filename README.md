@@ -175,7 +175,6 @@ Single models have inherent limitations:
 ---
 ## 📂 Dataset
 
-- Total Samples: 240 
 - Features:
   - Text input  
   - Stress level  
